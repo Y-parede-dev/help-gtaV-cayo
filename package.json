@@ -1,0 +1,14 @@
+{
+  "name": "aidecayoperico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./assets/scss/main.scss:./assets/css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}

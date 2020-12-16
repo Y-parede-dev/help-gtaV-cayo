@@ -1,0 +1,55 @@
+html, body {
+  font-size: 100%;
+  margin: 0;
+  width: 100%; }
+
+.navbar {
+  position: fixed !important;
+  top: 0px !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 1; }
+
+header {
+  display: flex; }
+
+.header-content {
+  max-width: 80%;
+  display: flex;
+  margin: 20px auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center; }
+
+.header-title {
+  margin: 50px auto; }
+
+.img-emplacement {
+  width: 90%;
+  margin: auto; }
+
+.card {
+  margin: 0px 20px 50px;
+  text-align: center !important; }
+
+.card-title {
+  font-size: 2.2rem; }
+
+.card-text {
+  font-size: 1.5rem; }
+
+.card-img {
+  margin: 25px auto; }
+
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0; }
+
+@media screen and (min-width: 1000px) {
+  .card {
+    width: 80%; } }
+
+/*# sourceMappingURL=style.css.map */
