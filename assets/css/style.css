@@ -10,9 +10,6 @@ html, body {
   right: 0 !important;
   z-index: 1; }
 
-header {
-  display: flex; }
-
 .header-content {
   max-width: 80%;
   display: flex;
